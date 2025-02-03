@@ -1,0 +1,13 @@
+The total gallons of paint needed is 13.32
+The total amount of labor needed is 106.57
+The total cost of gallons of paint needed is $666.07
+The total amount of labor cost is $3730.00
+The total cost is $4396.07
+The total cost for room 1 $942.86
+The total cost for room 2 $338.84
+The total cost for room 3 $330.00
+The total cost for room 4 $748.39
+The total cost for room 5 $492.05
+The total cost for room 6 $285.80
+The total cost for room 7 $553.93
+The total cost for room 8 $704.20

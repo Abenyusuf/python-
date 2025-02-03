@@ -1,0 +1,8 @@
+TotalDistance = float(input('Enter the total distance:'))
+SlowTravel = float(30)
+FastTravel = float(65)
+HalfDistance = (TotalDistance/2)
+SlowTime = (HalfDistance/SlowTravel)
+FastTime = (HalfDistance/FastTravel)
+TotalTime = (SlowTime + FastTime)
+print (f'The total amount of hours is:{TotalTime:,.3f}.')
